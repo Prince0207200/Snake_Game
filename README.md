@@ -1,10 +1,10 @@
 # Snake_Game
 
 
-Game Description
+Game Description: 
 The Snake game is a fun and addictive game where the player controls a snake on a bordered plane. The snake's goal is to eat as much food as possible, which causes the snake to grow in length. The player must avoid running into the walls or the snake's own body.
 
-Features
+Features:-
 Simple and intuitive controls using the arrow keys.
 Randomly generated food items for the snake to eat.
 Score tracking to keep track of the player's progress.
@@ -13,7 +13,7 @@ Responsive design for a consistent experience across different devices.
 Enhanced visuals with gradient colors and smooth transitions.
 
 
-Usage
+Usage: 
 Open the index.html file in your preferred web browser.
 Press any of the arrow keys (Up, Down, Left, Right) to start the game.
 How to Play
